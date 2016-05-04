@@ -1,0 +1,1 @@
+    sudo apt-get install libxcb-icccm4-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev libxcb-xinerama0-dev
